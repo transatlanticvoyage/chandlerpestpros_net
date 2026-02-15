@@ -1,0 +1,9 @@
+{
+  "name": "chandlerpestpros_net",
+  "version": "1.0.0",
+  "description": "Chandler Pest Pros - Professional Pest Control Services in Chandler, AZ",
+  "scripts": {
+    "build": "echo 'Static site - no build required'"
+  },
+  "dependencies": {}
+}
